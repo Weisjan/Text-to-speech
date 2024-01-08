@@ -1,0 +1,1 @@
+# Syntezator-Mowy
