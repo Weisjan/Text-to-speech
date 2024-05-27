@@ -2,7 +2,7 @@
 
 Realizacja syntezatora mowy
 
-### Wymagania
+## Wymagania
 
 * Google-colaboratory
 * Python 3.10
@@ -12,7 +12,7 @@ Realizacja syntezatora mowy
 * matplotlib 3.8.2
 * numpy 1.26.3
 
-### Instalacja
+## Instalacja
 
 1. Sklonuj repozytorium:
     ```
@@ -34,7 +34,7 @@ Realizacja syntezatora mowy
    - Ustal ścieżkę do wygenerowanego pliku `out.wav`
    - Uruchom notatnik
      
-### Struktura plików
+## Struktura plików
 
 | No | File Name | Details 
 |----|------------|-------|
@@ -44,7 +44,7 @@ Realizacja syntezatora mowy
 | 4 | audio | Folder z wyjściowymi plikami .wav wygenerowanymi przez autora
 | 5 | Readme.md | Plik Readme
   
-### Opis działania
+## Opis działania
 
 System konfiguruje i pobiera zestaw danych LJSpeech, który jest używany do trenowania modelu syntezy
 mowy. Po skonfigurowaniu zestawu danych, inicjalizowany jest model GlowTTS, ustawiając odpowiednie
@@ -55,7 +55,7 @@ wając modelu, można przekształcić wprowadzony tekst w syntetyzowaną mowę, 
 odtworzyć i usłyszeć za pomocą narzędzi wbudowanych w środowisko IPython. Opcjonalnie, 
 użytkownik może wygenerować wykresy sygnału pliku wyjściowego.
 
-### Uwagi
+## Uwagi
 
 Architektura modelu TTS może być modyfikowana w zależności od wymagań projektowych. Użytkownik
 może dostosować parametry takie jak rozmiar wektora ukrytego, udział warstwy porzucenia, dwukie-
@@ -63,7 +63,7 @@ runkowość sieci, długość pojedynczej epoki, oraz maksymalną liczbę epok. 
 zakres możliwości konfiguracji modelu, co pozwala na eksperymentowanie z różnymi architekturami i
 ustawieniami.
 
-### Autor
+## Autor
 
 [Jan Weis](https://github.com/Weisjan)
 
