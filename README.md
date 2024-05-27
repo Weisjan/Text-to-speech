@@ -16,7 +16,7 @@ Realizacja syntezatora mowy
 
 1. Sklonuj repozytorium:
     ```
-    git clone https://github.com/Weisjan/Import-adresow.git
+    git clone https://github.com/Weisjan/Text-to-speech.git
     ```
     
 2. W notatniku `Train_model.ipynb`
