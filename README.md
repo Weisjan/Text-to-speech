@@ -58,8 +58,7 @@ użytkownik może wygenerować wykresy sygnału pliku wyjściowego.
 ## Uwagi
 
 Architektura modelu TTS może być modyfikowana w zależności od wymagań projektowych. Użytkownik
-może dostosować parametry takie jak rozmiar wektora ukrytego, udział warstwy porzucenia, dwukie-
-runkowość sieci, długość pojedynczej epoki, oraz maksymalną liczbę epok. Coqui TTS oferuje szeroki
+może dostosować parametry pod kątem własnych potrzeb. Coqui TTS oferuje szeroki
 zakres możliwości konfiguracji modelu, co pozwala na eksperymentowanie z różnymi architekturami i
 ustawieniami.
 
