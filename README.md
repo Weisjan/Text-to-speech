@@ -50,8 +50,7 @@ System konfiguruje i pobiera zestaw danych LJSpeech, który jest używany do tre
 mowy. Po skonfigurowaniu zestawu danych, inicjalizowany jest model GlowTTS, ustawiając odpowiednie
 parametry i przygotowuje procesor audio oraz tokenizer tekstu. Kolejnym krokiem jest wczytanie próbek
 danych do treningu i walidacji, po czym następuje proces trenowania modelu przy użyciu tych danych.
-Po zakończeniu treningu, następuje pobranie wyuczonego modelu oraz plików konfiguracyjnych. Uży-
-wając modelu, można przekształcić wprowadzony tekst w syntetyzowaną mowę, którą następnie można
+Po zakończeniu treningu, następuje pobranie wyuczonego modelu oraz plików konfiguracyjnych. Używając modelu, można przekształcić wprowadzony tekst w syntetyzowaną mowę, którą następnie można
 odtworzyć i usłyszeć za pomocą narzędzi wbudowanych w środowisko IPython. Opcjonalnie, 
 użytkownik może wygenerować wykresy sygnału pliku wyjściowego.
 
